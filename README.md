@@ -36,4 +36,11 @@ values/principles
 estimation/planning
 - noestimate movement, http://ronjeffries.com/xprog/articles/the-noestimates-movement/
 - story points, https://www.atlassian.com/agile/project-management/estimation
- 
+
+decision making
+- Cynefin, https://en.wikipedia.org/wiki/Cynefin_framework
+
+learning
+- Post Mortem Analyse, https://landing.google.com/sre/sre-book/chapters/postmortem-culture/
+- STAMP Analyse, https://en.ru.is/stamp/what-is-stamp/
+- 5-Whys, https://en.wikipedia.org/wiki/5_Whys 
