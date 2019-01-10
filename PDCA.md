@@ -8,6 +8,6 @@ By doing this PDCA cycle it's possible to try out things. When they are
 successful, you can establish them in your team. If not, just go back to
 your previous approach.
 
-[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/700px-PDCA_Cycle.svg.png]
+![The PDCA cycle; from wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/700px-PDCA_Cycle.svg.png)
 
 See https://en.wikipedia.org/wiki/PDCA
