@@ -41,7 +41,7 @@ like collect methods and concepts here.
 ## decision making
 
 - Cynefin, https://en.wikipedia.org/wiki/Cynefin_framework
-- [PDCA](PDCA.md)
+- [plan-do-check-act (PDCA)](PDCA.md)
 
 ## learning
 
