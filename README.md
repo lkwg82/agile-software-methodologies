@@ -16,6 +16,29 @@ like collect methods and concepts here.
 1. Collect methods and concepts.
 1. Rethink the approach when the number exceed the count of ~30.
 
+## Dimensions
+Software development in general has more dimensions than just *technology*. 
+What I see as important dimensions are:
+1. organisation
+   
+   You are not working alone anymore. You are working in a group of people.
+   Questions: How do you organize and structure work?
+   
+2. communication
+   
+   As you are not working in a complex world and nobody can always complete work alone, how do we effectivly communicate with others?
+   
+3. learning
+
+   We can be very confident about that we don't know everything. We can further be sure, we need some capability in the future we currently don't have. How do we organize learning?
+   
+4. technology
+
+   Software development without technology would miss the point. (This is just listed for the sake of completeness.)
+
+When we leave university, we are mostly packed with knowledge around the 4th dimension (technology). But with that alone we will fail in the first reality contact badly. 
+We will never know everything. But to know what we dont know and should know is the first step out of unconscious incompetence.
+
 
 ## List (name + link to short description)
 
@@ -48,3 +71,4 @@ like collect methods and concepts here.
 - Post Mortem Analyse, https://landing.google.com/sre/sre-book/chapters/postmortem-culture/
 - STAMP Analyse, https://en.ru.is/stamp/what-is-stamp/
 - 5-Whys, https://en.wikipedia.org/wiki/5_Whys 
+- 4-stages-of-competence, https://en.wikipedia.org/wiki/Four_stages_of_competence
