@@ -1,20 +1,20 @@
 # List of agile software methodologies
 
-**motivation**
+**Motivation**
 
-As a software practioner for severeal years I continuously observing 
+As a software practicioner for several years I am continuously observing 
 a lack of knowledge about specific methods and concepts. What I miss 
-mostly are knowledge about organisation and communication.
+mostly is knowledge about organisation and communication.
 
-**goal**
+**Goal**
 
 To make a start in order to change that (at least around me) I would 
-like collect methods and concepts here.
+like to collect methods and concepts here.
 
-**approach**
+**Approach**
 
 1. Collect methods and concepts.
-1. Rethink the approach when the number exceed the count of ~30.
+1. Rethink the approach when the number exceeds the count of `~30`.
 
 ## Dimensions
 Software development in general has more dimensions than just *technology*. 
@@ -26,7 +26,7 @@ What I see as important dimensions are:
    
 2. communication
    
-   As you are not working in a complex world and nobody can always complete work alone, how do we effectivly communicate with others?
+   As you are not working in a complex world and nobody can always complete work alone, how do we effectively communicate with others?
    
 3. learning
 
@@ -37,7 +37,7 @@ What I see as important dimensions are:
    Software development without technology would miss the point. (This is just listed for the sake of completeness.)
 
 When we leave university, we are mostly packed with knowledge around the 4th dimension (technology). But with that alone we will fail in the first reality contact badly. 
-We will never know everything. But to know what we dont know and should know is the first step out of unconscious incompetence.
+We will never know everything. But to know what we don't know and should know is the first step out of unconscious incompetence.
 
 
 ## List (name + link to short description)
@@ -45,28 +45,28 @@ We will never know everything. But to know what we dont know and should know is 
 - retrospective, https://en.wikipedia.org/wiki/Retrospective#Software_development
 - feedback rules, https://www.entrepreneur.com/article/280791 (needs improvement)
 
-## development framework
+## Development framework
 
 - scrum, https://en.wikipedia.org/wiki/Scrum_(software_development)
 - kanban, https://en.wikipedia.org/wiki/Kanban_(development)
 
-## values/principles
+## Values/principles
 
 - agile manifesto, https://agilemanifesto.org/
 - Software Gardening Manifesto, http://softwaregarden.io/manifesto/
 - prime directive, https://www.martinfowler.com/bliki/PrimingPrimeDirective.html
 
-## estimation/planning
+## Estimation/planning
 
-- noestimate movement, http://ronjeffries.com/xprog/articles/the-noestimates-movement/
+- noestimates movement, http://ronjeffries.com/xprog/articles/the-noestimates-movement/
 - story points, https://www.atlassian.com/agile/project-management/estimation
 
-## decision making
+## Decision making
 
 - Cynefin, https://en.wikipedia.org/wiki/Cynefin_framework
 - [plan-do-check-act (PDCA)](PDCA.md)
 
-## learning
+## Learning
 
 - Post Mortem Analyse, https://landing.google.com/sre/sre-book/chapters/postmortem-culture/
 - STAMP Analyse, https://en.ru.is/stamp/what-is-stamp/
