@@ -51,9 +51,9 @@ on a new task, just retain in the present moment, notice the world around you, *
 
 – [Bhante Gunaratana](https://en.wikipedia.org/wiki/Henepola_Gunaratana)
 
-A common mistake one good make with this mixture of hints is, to take them too serious. They are in no way
+A common mistake one could make with this mixture of hints is, to take them too serious. They are in no way
 dogmatic nor do they fit to all of us in the same way. Regard them as guidelines for your daily live. While
-this short article relates more or less on the developers needs, its principles are easily adoptable to all
+this short article looks more or less on developers' needs, its principles are easily adoptable to all
 challenges we are faced with in everyday life.
 
 
