@@ -19,9 +19,9 @@ Depending on the secular, cultural or psycho-analytical view one can have on thi
 definitions of mindfulness are given in the literature. However mindful activities can be characterized by
 a the following attributes:
 
-- They are truly intentional.
-- Their focus is directed to the present moment.
-- They do not evaluate or judge anything.
+- They are truly **intentional**.
+- Their focus is directed to the **present moment**.
+- They **do not judge** or evaluate anything.
 
 
 ## How can this help throughout our daily dev business?
