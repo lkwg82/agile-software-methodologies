@@ -73,3 +73,4 @@ We will never know everything. But to know what we don't know and should know is
 - STAMP Analyse, https://en.ru.is/stamp/what-is-stamp/
 - 5-Whys, https://en.wikipedia.org/wiki/5_Whys 
 - 4-stages-of-competence, https://en.wikipedia.org/wiki/Four_stages_of_competence
+- Rubber-duck-debugging, https://en.wikipedia.org/wiki/Rubber_duck_debugging
