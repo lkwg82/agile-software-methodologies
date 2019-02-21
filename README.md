@@ -45,6 +45,7 @@ We will never know everything. But to know what we don't know and should know is
 - retrospective, https://en.wikipedia.org/wiki/Retrospective#Software_development
 - feedback rules, https://www.entrepreneur.com/article/280791 (needs improvement)
 - [mindfulness in the art of software development](mindfulness.md)
+- Maker vs. Manager schedule, https://fs.blog/2017/12/maker-vs-manager/
 
 ## Development framework
 
