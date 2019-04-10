@@ -69,7 +69,7 @@ We will never know everything. But to know what we don't know and should know is
 - [plan-do-check-act (PDCA)](PDCA.md)
 
 ## Learning
-
+- Popcorn Flow, https://de.slideshare.net/cperrone/popcornflow-continuous-evolution-through-ultrarapid-experimentation
 - Post Mortem Analyse, https://landing.google.com/sre/sre-book/chapters/postmortem-culture/
 - STAMP Analyse, https://en.ru.is/stamp/what-is-stamp/
 - 5-Whys, https://en.wikipedia.org/wiki/5_Whys 
