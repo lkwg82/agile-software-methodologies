@@ -57,6 +57,7 @@ We will never know everything. But to know what we don't know and should know is
 - agile manifesto, https://agilemanifesto.org/
 - Software Gardening Manifesto, http://softwaregarden.io/manifesto/
 - prime directive, https://www.martinfowler.com/bliki/PrimingPrimeDirective.html
+- slack-time, https://medium.com/sainsburys-engineering/the-science-of-slack-time-f62c77a38349
 
 ## Estimation/planning
 
