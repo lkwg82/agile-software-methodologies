@@ -49,6 +49,7 @@ We will never know everything. But to know what we don't know and should know is
 
 ## Architecture
 - basic architecure of microservices: https://12factor.net/
+- testing microservices: https://martinfowler.com/articles/microservice-testing/
 
 ## Development framework
 
