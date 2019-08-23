@@ -47,6 +47,9 @@ We will never know everything. But to know what we don't know and should know is
 - [mindfulness in the art of software development](mindfulness.md)
 - Maker vs. Manager schedule, https://fs.blog/2017/12/maker-vs-manager/
 
+## Architecture
+- basic architecure of microservices: https://12factor.net/
+
 ## Development framework
 
 - scrum, https://en.wikipedia.org/wiki/Scrum_(software_development)
