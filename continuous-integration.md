@@ -12,3 +12,4 @@ Rule of thumb: Integrate rather more than less frequently.
 
 - 2006: https://martinfowler.com/articles/continuousIntegration.html
 - 2010: (GERMAN) https://www.lgohlke.de/download/projects/studienarbeit/Studienarbeit_Gohlke_20042002.pdf
+- Wikipedia: https://en.wikipedia.org/wiki/Continuous_integration
