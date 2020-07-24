@@ -19,6 +19,7 @@ like to collect methods and concepts here.
 ## Dimensions
 Software development in general has more dimensions than just *technology*. 
 What I see as important dimensions are:
+
 1. organisation
    
    You are not working alone anymore. You are working in a group of people.
@@ -46,6 +47,10 @@ We will never know everything. But to know what we don't know and should know is
 - feedback rules, https://www.entrepreneur.com/article/280791 (needs improvement)
 - [mindfulness in the art of software development](mindfulness.md)
 - Maker vs. Manager schedule, https://fs.blog/2017/12/maker-vs-manager/
+
+## Communication
+- Liberating Structures, https://www.liberatingstructures.de/ (only German version yet)
+- Non-violent communication, https://en.wikipedia.org/wiki/Nonviolent_Communication
 
 ## Architecture
 - basic architecure of microservices: https://12factor.net/
