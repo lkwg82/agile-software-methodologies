@@ -53,7 +53,7 @@ We will never know everything. But to know what we don't know and should know is
 - Non-violent communication, https://en.wikipedia.org/wiki/Nonviolent_Communication
 
 ## Architecture
-- basic architecure of microservices: https://12factor.net/
+- basic architecture of microservices: https://12factor.net/
 - testing microservices: https://martinfowler.com/articles/microservice-testing/
 
 ## Development framework
